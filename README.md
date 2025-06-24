@@ -15,8 +15,8 @@ Know your coffee è un'applicazione web interattiva per esplorare un catalogo di
 Link della repository: [Know your coffee](https://github.com/TommasoVilla91/know-your-coffee)
 
 ## ✉️ Contattami
-[LinkedIn](https://www.linkedin.com/in/tommasovilla/)
-[email](tommasovilla@yahoo.it)
+- [LinkedIn](https://www.linkedin.com/in/tommasovilla/)
+- [email](tommasovilla@yahoo.it)
 
 <!--
 **TommasoVilla91/tommasovilla91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
